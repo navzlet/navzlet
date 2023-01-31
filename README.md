@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @navzlet
 - 👀 I’m interested in frontend dev 
-- 🌱 I’m currently learning node js
+- 🌱 I’m currently learning everything)
 - 📫 How to reach me: tg @navzl3t
