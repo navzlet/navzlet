@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @navzlet
 - 👀 I’m interested in development
-- 🌱 I’m currently learning everything)
+- 🌱 I’m currently learning go, postgresql
 - 📫 How to reach me: tg @memoryleak777
